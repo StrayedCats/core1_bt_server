@@ -1,0 +1,6 @@
+geometry_msgs/PoseArray allies
+geometry_msgs/PoseArray enemies
+---
+geometry_msgs/Pose target_pose
+---
+float64 current_calculated_distance
