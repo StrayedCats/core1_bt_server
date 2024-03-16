@@ -21,6 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             # 'example_node = core1_bt_server_py.example_node:main',
+            'tar_server = core1_bt_server_py.tar_server:main',
+            'tar_client = example_client.tar_client:main',
         ],
     },
 )
